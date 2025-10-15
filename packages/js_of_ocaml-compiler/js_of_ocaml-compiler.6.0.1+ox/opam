@@ -90,8 +90,8 @@ patches: [
   "js_of_ocaml-atomic-cmpxchg.patch"
   "js_of_ocaml-small-int-literals.patch"
   "dune.patch"
-  "js_of_ocaml-top-effects.patch"
-  "js_of_ocaml-toplevel.patch"
+#  "js_of_ocaml-top-effects.patch"
+#  "js_of_ocaml-toplevel.patch"
 ]
 extra-files: [
   [
