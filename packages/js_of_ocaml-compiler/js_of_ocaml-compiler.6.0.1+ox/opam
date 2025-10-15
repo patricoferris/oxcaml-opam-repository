@@ -267,7 +267,7 @@ extra-files: [
   ]
   [
     "js_of_ocaml-toplevel.patch"
-    "sha256=56c305aa9ed8cb35e9a3bee9fb17aaae244522bacb54a78115b03182a746b7b2"
+    "sha256=ce2fb88c8f0cc32ba327cab93396bd4717d026c10b7e4caab4d38b36863eefd1"
   ]
   [
     "js_of_ocaml-small-int-literals.patch"
