@@ -85,7 +85,7 @@ patches: [
 extra-files: [
   [
     "js_of_ocaml-toplevel.patch"
-    "sha256=56c305aa9ed8cb35e9a3bee9fb17aaae244522bacb54a78115b03182a746b7b2"
+	 "sha256=fc9e1c363cd14d77edb3d6017ec2a8d2211dc755ff902e2a075a372b1e665f9e"
   ]
   [
     "js_of_ocaml-magic_number.ml.patch"
