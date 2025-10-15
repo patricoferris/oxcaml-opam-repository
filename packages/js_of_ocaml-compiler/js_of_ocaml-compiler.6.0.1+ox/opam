@@ -90,8 +90,7 @@ patches: [
   "js_of_ocaml-atomic-cmpxchg.patch"
   "js_of_ocaml-small-int-literals.patch"
   "dune.patch"
-#  "js_of_ocaml-top-effects.patch"
-#  "js_of_ocaml-toplevel.patch"
+ "js_of_ocaml-toplevel.patch"
 ]
 extra-files: [
   [
@@ -267,12 +266,8 @@ extra-files: [
     "sha256=89612eb8c1e64898205c0b59c6b73987d2ff993a8c366fb61dac6db90e2806bc"
   ]
   [
-    "js_of_ocaml-top-effects.patch"
-    "sha256=638247bd3f7bacb99612353b29c0afdcc48598c5771a52602a96baabbc141370"
-  ]
-  [
     "js_of_ocaml-toplevel.patch"
-    "sha256=56c305aa9ed8cb35e9a3bee9fb17aaae244522bacb54a78115b03182a746b7b2"
+    "sha256=27e1910af2c1c73c0f243ab556294debac215393b487ab93e7f087027685ce1d"
   ]
   [
     "js_of_ocaml-small-int-literals.patch"
